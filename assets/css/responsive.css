@@ -1,0 +1,1208 @@
+/* HD Layout: 1920px. */
+
+@media only screen and (min-width: 1601px) and (max-width: 2000px) {
+    body {
+        font-size: 22px;
+        font-weight: 300;
+    }
+    .site-wrapper{
+        border-left: 40px solid #ed2023;
+    }
+    .home-sticky, .home-sticky-1 {
+        left: 40px;
+    }
+    .soldis-logo img {
+        max-width: 200px;
+    }
+    .simply-burger-txt p {
+        font-size: 24px;
+        margin-left: 15px;
+        line-height: 50px;
+    }
+    .soldis-phone-no-header {
+        font-size: 24px;
+        font-weight: 400;
+    }
+    .single-project-header h4, .logo-section h3 {
+        font-size: 35px;
+    }
+    .hero-area-caption h3 {
+        font-weight: 900;
+        color: #1d1d1d;
+    }
+    .hero-area-caption {
+        margin-left: 0;
+        margin-top: 27%;
+        width: 55%;
+    }
+    .testimonial-intro h1 {
+        font-size: 53px;
+    }
+    .testimonial-section .container {
+        clip-path: inset(0 0 0 0);
+        -webkit-clip-path: inset(0 0 0 0);
+        position: relative;
+        overflow: hidden;
+    }
+    .testimonial-intro, .person-quote {
+        margin-left: 0;
+    }
+    .soldis-logo{
+        padding-left: 38px;
+    }
+    .testimonial-intro p {
+        font-size: 18px;
+        font-weight: 400;
+    }
+    p.person-name {
+        font-size: 34px;
+        font-weight: 400;
+    }
+    p.person-intro {
+        font-size: 18px;
+        font-weight: 400;
+    }
+    .person-quote p {
+        font-size: 18px;
+        font-weight: 300;
+    }
+    .person-image img {
+        margin-top: -300px;
+        width: 450px !important;
+        height: auto;
+    }
+    .testimonial-carousel .owl-dots {
+        margin-top: -36PX;
+    }
+    .testimonial-carousel .owl-controls {
+        margin-top: 50px;
+    }
+    .testimonial-carousel .owl-dots div {
+        height: 20px;
+        width: 20px;
+        margin-left: 30px;
+    }
+    .testimonial-carousel .owl-nav div {
+        font-size: 30px;
+    }
+    .testimonial-carousel .owl-nav .owl-prev {
+        width: 340px;
+        margin-left: 17.5%;
+    }
+    .under-desc p {
+        font-size: 22px;
+    }
+    p.counter-number {
+        font-size: 40px;
+    }
+    .feature-desc {
+        width: 360px;
+    }
+    .col-md-3.feature-icon img {
+        max-width: 90px;
+    }
+    .features-text-block h4 {
+        margin-top: 135px;
+        font-size: 25px;
+    }
+    .features-text-block p {
+        margin-top: 60px;
+        margin-bottom: 70px;
+        font-size: 22px;
+        text-transform: none;
+        font-weight: 300;
+    }
+    .features-text-block ul li a {
+        font-size: 18px;
+        font-weight: 300;
+        padding: 15px 0;
+    }
+    .count-up-features {
+        margin-top: 150px;
+    }
+    .features-text-block {
+        width: 550px;
+        height: 1080px;
+    }
+    .feature-section {
+        height: 1080px;
+    }
+    .single-project-header a{
+        font-size: 24px;
+        font-weight: 400;
+    }
+    .snip1301 {
+        height: 380px;
+    }
+    .snip1302:hover:after, .snip1302.hover:after, .snip1301:hover:after, .snip1301.hover:after {
+        right: 65%;
+    }
+    .snip1302:after, .snip1301:after {
+        border-width: 250px 0 250px 250px;
+    }
+    .hd-pc-col-width {
+        width: 100%;
+        margin-left: 0;
+    }
+    .footer-logo img {
+        max-width: 200px;
+        margin-left: -20px;
+    }
+    .footer-info p {
+        margin-right: -20px;
+        font-size: 24px;
+    }
+    .logo-section h3 {
+        margin-bottom: 40px;
+    }
+    .single-counter-box {
+        margin-bottom: 36px;
+    }
+    .hero-area-desc{
+        font-size: 28px;
+    }
+    .slide-menu-wrapper {
+        width: 345px;
+        margin-left: -400px;
+    }
+    .slide-menu-wrapper ul li {
+        margin-top: 60px;
+    }
+    
+    .slide-menu-wrapper ul {
+        padding: 60px 40px;
+    }
+    .slide-menu-wrapper ul li a {
+        font-size: 20px;
+        font-weight: 300;
+    }
+    span.offcanvas-menu-close {
+        padding: 16px 32px;
+        font-size: 45px;
+    }
+
+    .project-breadcumb li a {
+        font-size: 17px;
+    }
+    .project-header h3 {
+        margin: 40px 0 70px 0;
+        font-size: 22px;
+    }
+    .project-filter-list ul li span {
+        padding: 15px 22px;
+        margin: 0 25px 25px 25px;
+        font-size: 18px;
+    }
+    .project-filter-list ul li:first-child span {
+        padding: 15px 22px;
+        margin: 0 25px 25px -15px;
+        font-size: 18px;
+    }
+    .portfolio-wrapper {
+        height: 380px;
+    }
+    .text-title {
+        font-size: 22px;
+        margin-bottom: 18px;
+    }
+    .portfolio .text-category {
+        font-size: 16px;
+        margin-bottom: 18px;
+    }
+    .portfolio .portfolio-label-text {
+        padding: 9px 18px;
+    }
+    .snip1302 .portfolio-label, .snip1302 .portfolio-label2 {
+        width: 74%;
+    }
+    .single-listing-box {
+        height: 400px;
+    }
+    .listing-carousel:before, .listing-carousel:after {
+        left: -230px;
+        width: 210px;
+    }
+    .listing-carousel:after {
+        left: auto;
+        right: -230px;
+    }
+    .listing-carousel .owl-nav div {
+        left: -130px;
+    }
+    .listing-carousel .owl-nav div.owl-next {
+        right: -130px;
+    }
+    .info-and-description-area {
+        font-size: 18px;
+    }
+    .general-info span {
+        font-size: 20px;
+    }
+    .custom-col-padding-1{
+        padding-left: 50px;
+        padding-right: 50px;
+    }
+    .contact-info {
+        font-size: 18px;
+        line-height: 26px;
+    }
+    .contact-info p, .contact-info p:first-child {
+        margin-bottom: 25px;
+    }
+    .contact-form {
+        margin-top: 50px;
+    }
+    .contact-form h3 {
+        margin-bottom: 22px;
+    }
+    .contact-form label {
+        font-size: 18px;
+    }
+    .contact-form input {
+        padding: 20px 18px;
+        font-size: 18px;
+    }
+    .contact-form button[type="submit"] {
+        font-size: 18px;
+        padding: 10px;
+    }
+    .contact-image img {
+        max-height: 450px;
+        min-height: 450px;
+
+    }
+    .googleMap3 {
+        height: 500px;
+    }
+    .fixed, .fixed-1 {
+        left: 40px;
+        height: 108px;
+    }
+    .soldis-burger-menu-trigger {
+        margin-top: 14px;
+    }
+    .row.h-area.h-area-2 {
+        margin-top: 20px;
+    }
+    .single-logo-tablecell img {
+        max-width: 215px;
+    }
+    div#about-company {
+        padding-top: 50px;
+    }
+
+    /* NEW CSS UPDATE FEB 21 */
+    .soldis-phone-no-header a {
+        font-size: 20px;
+    }
+
+    .soldis-phone-no-header img {
+        max-width: 30px;
+    }
+
+    .soldis-phone-no-header a:hover {
+        color: #ed2023;
+    }
+    .hero-area-caption.update1 {
+        margin-top: 30%;
+    }
+
+    .project-header.project-all-link a {
+        font-size: 24px;
+        margin-right: 13%;
+    }
+
+    
+    .pt-70-b-30{
+        padding-top: 70px;
+        padding-bottom: 30px;
+    }
+    .project-filter-list.update1  ul li span {
+        padding: 10px 30px;
+        margin: 0 15px 25px 15px;
+    }
+
+
+    .portfolio-label2.update1 h4 {
+        margin-bottom: 0;
+        color: #fff;
+        font-size: 24px;
+    }
+
+    .snip1302 .portfolio-label2.update1 {
+        -webkit-transform: translate(80%, -50%);
+        transform: translate(80%, -50%);
+    }
+    .snip1302:hover .portfolio-label2.update1 {
+        -webkit-transform: translate(64%, -50%);
+        transform: translate(64%, -50%); /* Update at Feb 23 */
+    }
+    .snip1302.update1:hover:after,
+    .snip1302.update1.hover:after{
+        right: 69%;
+    }
+    .project-review-company-info img {
+        max-height: 80px;
+    }
+
+    .project-review-company-info h3 {
+        font-size: 20px;
+    }
+
+    .project-review {
+        font-size: 18px;
+        line-height: 40px;
+    }
+    .custom-width-for-hd {
+        /*width: 80%;
+        margin-left: 10%;*/
+
+        width: 90%;
+        margin-left: 5%;
+    }
+
+     /* Added at Feb 23 */
+    .soldis-phone-no-header p {
+        padding-left: 10px;
+    }
+    #about-company .container {
+        clip-path: inset(0 0 0 0);
+        -webkit-clip-path: inset(0 0 0 0);
+        position: relative;
+        overflow: hidden;
+    }
+    .border-bottom-3 {
+        padding-top: 108px;
+    }
+
+}
+@media only screen and (min-width: 1400px) and (max-width: 1600px) {
+    .contact-form {
+        margin-top: 35px;
+    }
+    .contact-form label {
+        margin-bottom: 9px;
+    }
+}
+@media only screen and (min-width: 1201px) and (max-width: 1300px) {
+    .contact-form {
+        margin-top: 15px;
+    }
+    .contact-form input {
+        padding: 15px 12px;
+    }
+    .contact-form .form-group {
+        margin-bottom: 10px;
+    }
+    .snip1302:hover .portfolio-label2.update1 {
+        -webkit-transform: translate(77%, -50%);
+        transform: translate(77%, -50%);
+    }
+    .snip1302.update1:hover:after, .snip1302.update1.hover:after {
+        right: 65%;
+    }
+    .listing-carousel .owl-nav div {
+        left: -100px;
+    }
+    .listing-carousel .owl-nav div.owl-next {
+        left: auto;
+        right: -100px;
+    }
+
+}
+/* Medium Layout(iPad Pro): 1280px. */
+
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
+    /* Added At Feb 28 */
+    #about-company .container {
+        clip-path: inset(0 100px 0 132px);
+        -webkit-clip-path: inset(0 100px 0 132px);
+        position: relative;
+        overflow: hidden;
+    }
+    .soldis-header.hero-area {
+        height: 100vh;
+    }
+    .hero-area-caption.update1 {
+        margin-top: 28%;
+    }
+    .testimonial-carousel .owl-nav .owl-prev {
+        width: 158px;
+        margin-left: 27%;
+    }
+    .testimonial-carousel .owl-dots {
+        margin-top: -2.3%;
+    }
+    .feature-section, .features-text-block {
+        height: 665px;
+    }
+    .features-text-block h4, .count-up-features {
+        margin-top: 50px;
+    }
+    .listing-carousel .owl-nav div {
+        left: -84px;
+    }
+    .listing-carousel .owl-nav div.owl-next {
+        right: -84px;
+    }
+    .snip1302 .portfolio-label2 {
+        left: -156px;
+    }
+    .snip1302.update1:hover:after, .snip1302.update1.hover:after {
+        right: 57%;
+    }
+    .column-100{
+        width: 100%;
+    }
+    .contact-image {
+        margin-bottom: 40px;
+    }
+    .testimonial-intro {
+        padding-top: 0;
+        width: 89%;
+    }
+    .person-details {
+        margin-top: 30px;
+    }
+    .person-image img {
+        width: 342px !important;
+        height: 540px;
+    }
+    .border-bottom-3 {
+        padding-top: 90px;
+    }
+}
+
+
+/* Tablet Layout: 768px. */
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+    .container-fluid.project-showcase.portfolio-list .portfolio-1:last-child{
+        display: none;
+    }
+    .portfolio-list .portfolio {
+        width: 50%;
+    }
+    .portfolio .portfolio-label {
+        height: 42%;
+        left: 22px;
+    }
+    .contact-info {
+        margin-top: 30px;
+    }
+    .single-listing-box {
+        height: 300px;
+    }
+    .listing-carousel .owl-nav div {
+        left: -93px;
+    }
+    .listing-carousel .owl-nav div.owl-next {
+        right: -93px;
+    }
+    .soldis-header-t-2 {
+        display: none;
+    }
+    
+    .site-wrapper{
+        border-left: 10px solid #ed2023;
+    }
+    .home-sticky, .home-sticky-1 {
+        left: 10px;
+    }
+    .soldis-header-2.hero-area.header-type-2 {
+        border-bottom: none;
+    }
+    .row.h-area.h-area-2 .col-md-2 {
+        width: 48%;
+        display: inline-block;
+    }
+    .row.h-area.h-area-2 .col-md-10 {
+        width: 50%;
+        /* display: inline-block; */
+    }
+    .footer-info,
+    .footer-logo {
+        text-align: center;
+    }
+    .footer-info p {
+        margin-right: 0;
+        margin-top: 20px;
+    }
+    .footer-info p:last-child {
+        margin-top: 0;
+    }
+    .footer-logo img {
+        margin-left: 0;
+    }
+    .snip1302 .portfolio-label,
+    .snip1302 .portfolio-label2 {
+        margin-left: -55px;
+    }
+    /* ADDED BY NMH47 */
+    .soldis-logo.soldis-logo-mobile {
+        margin-right: -100px;
+    }
+    .col-md-10.s-l-t-2 {
+        margin-bottom: 30px;
+    }
+    .burger-align.b-a-t-2 {
+        width: 32%;
+    }
+    .logo-section .col-md-3 {
+        width: 32%;
+        display: inline-block;
+    }
+    .hero-area-caption h3 {
+        font-size: 30px;
+    }
+    .hero-area-desc p {
+        font-size: 20px;
+    }
+    .hero-area-caption {
+        width: 68%;
+        margin-top: 300px;
+    }
+    .burger-align {
+        width: 20%;
+    }
+    .soldis-logo {
+        width: 300px;
+        margin-top: -48px;
+        margin-right: 200px;
+        display: block;
+        float: right;
+    }
+    .soldis-phone-no-header {
+        margin-top: -34px;
+        float: right;
+        display: block;
+        margin-right: -470px;
+    }
+    .testimonial-intro p {
+        font-size: 16px;
+    }
+    .testimonial-intro {
+        margin-left: 10%;
+    }
+    .person-details {
+        margin-left: 5%;
+        float: left;
+    }
+    .person-image {
+        float: right;
+        margin-right: 5%;
+    }
+    .person-quote {
+        margin-left: 5%;
+        float: left;
+        width: 300px;
+    }
+    .person-quote:after {
+        left: 60%;
+    }
+    .snip1301 {
+        height: 180px;
+    }
+    .single-testimonial {
+        margin-top: 100px;
+    }
+    .testimonial-carousel .owl-dots {
+        margin-top: -3%;
+    }
+    .testimonial-carousel .owl-nav .owl-prev {
+        margin-left: 30%;
+    }
+    .testimonial-carousel .owl-nav .owl-next {
+        margin-left: 36%;
+    }
+    .count-up-features {
+        float: left;
+        width: 100%;
+    }
+    .features-text-block {
+        float: right;
+        width: 100%;
+        height: 100vh;
+    }
+    .feature-section, .features-text-block {
+        height: 1015px;
+    }
+    .count-up-features, .features-text-block h4 {
+        margin-top: 50px;
+    }
+    .feature-icon {
+        float: right;
+    }
+    .project-link {
+        margin-bottom: 22px;
+        margin-top: -22px;
+    }
+    .fixed, .fixed-1 {
+        left: 10px;
+        height: 95px;
+    }
+    .fixed-1 {
+        height: 100px;
+    }
+    /* .feature-desc {
+        width: 245px;
+        float: left;
+    }
+    .single-counter-box {
+        display: inline-block;
+    } */
+    /* .person-details {
+        margin-right: 50px;
+    }
+    .person-quote {
+        margin-left: 0;
+        margin-top: 440px;
+        position: absolute;
+    }
+    .testimonial-carousel .owl-controls {
+        margin-top: 40px;
+    } */
+
+    /* NEW CSS UPDATE FEB 21 */
+   
+    .hero-area-caption.update1 {
+        margin-top: 50%;
+    }
+
+    /* Added at Feb 23 */
+    .tablet-display-none {
+        display: none;
+    }
+
+    .soldis-phone-no-header.update1 {
+        margin-top: -35px;
+    }
+    .person-image img {
+        max-width: 280px;
+        height: auto;
+    }
+    .single-testimonial .col-md-6.person-col {
+        width: 66%;
+    }
+    #about-company .container {
+        clip-path: inset(0 0 0 0);
+        -webkit-clip-path: inset(0 0 0 0);
+        position: relative;
+        overflow: hidden;
+    }
+    .snip1302.update1:hover:after, .snip1302.update1.hover:after {
+        right: 61%;
+    }
+    .testimonial-intro {
+        margin-left: 0;
+        padding-left: 4%;
+        padding-right: 5%;
+    }
+}
+
+
+/* Mobile Layout: 375px. */
+
+@media only screen and (max-width: 767px) {
+    .hd-pc-col-width {
+        width: 100%;
+        margin-left: 0;
+    }
+    .fixed, .fixed-1 {
+        left: 5px;
+        height: 86px;
+    }
+    .fixed-1 {
+        height: 90px;
+    }
+    .portfolio-list .portfolio {
+        width: 100%;
+    }
+    .portfolio-list .portfolio-1 {
+        margin-bottom: 20px;
+    }
+    .portfolio .portfolio-label {
+        /* height: 42%;
+        left: 22px; */
+        height: 35%;
+        left: -18%;
+        opacity: 1;
+        -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+        margin-top: 75px;
+    }
+    .contact-info {
+        margin-top: 30px;
+    }
+    .single-listing-box {
+        height: 200px;
+    }
+    .listing-carousel .owl-nav div {
+        left: 15px;
+        top: 50%;
+        font-size: 50px;
+    }
+    .listing-carousel .owl-nav div.owl-next {
+        right: 15px;
+    }
+    .listing-carousel:before,
+    .listing-carousel:after {
+        left: -113px;
+    }
+    .listing-carousel:after {
+        left: auto;
+        right: -113px;
+    }
+    .soldis-header-t-2 {
+        display: none;
+    }
+    .site-wrapper{
+        border-left: 5px solid #ed2023;
+    }
+    .home-sticky, .home-sticky-1 {
+        left: 5px;
+    }
+    .soldis-header-2.hero-area.header-type-2 {
+        border-bottom: none;
+    }
+    .row.h-area.h-area-2 .col-md-2 {
+        width: 48%;
+        display: inline-block;
+    }
+    /* .row.h-area.h-area-2 .col-md-10 {
+        width: 50%;
+        display: inline-block;
+    } */
+    /* ADDED BY NMH47 */
+    .back-to-top {
+        display: block;
+    }
+    ul.project-breadcumb-pc {
+        display: none;
+    }
+    ul.project-breadcumb-mobile {
+        display: block;
+    }
+    ul.project-breadcumb-mobile li a i {
+        color: #ed2023;
+    }
+    ul.project-breadcumb-mobile li a {
+        text-transform: uppercase;
+    }
+    .googleMap3 {
+        height: 300px !important;
+    }
+    .row.h-area.h-area-2 .col-md-10 {
+        width: 50%;
+        display: block;
+        margin-top: -52px;
+        margin-left: 118px;
+    }
+    .row.h-area.h-area-2 {
+        margin-top: 10px;
+    }
+    .row.h-area {
+        margin-top: 15px;
+    }
+    .footer-info,
+    .footer-logo {
+        text-align: center;
+    }
+    .footer-info p {
+        margin-right: 0;
+        margin-top: 20px;
+    }
+    .footer-info p:last-child {
+        margin-top: 0;
+    }
+    .footer-logo img {
+        margin-left: 0;
+    }
+    .hero-area-caption {
+        margin-left: 0;
+        margin-top: 50%;
+        width: 100%;
+    }
+    .testimonial-intro {
+        margin-left: 0;
+        padding-right: 0;
+        padding-top: 0;
+    }
+    p.person-name {
+        font-size: 24px;
+        font-weight: 500;
+        color: #1a1a1a;
+        margin-bottom: 2px;
+    }
+    .person-details {
+        margin-right: 0;
+        text-align: center;
+        margin-top: 60px;
+    }
+    .person-quote {
+        margin-left: 0;
+        margin-top: 255px;
+        position: absolute;
+        padding-right: 15px;
+    }
+    .person-quote p:before {
+        margin-top: -40px;
+        font-size: 30px;
+    }
+    .person-quote:after {
+        margin-top: -20px;
+        font-size: 30px;
+        margin-right: 30px;
+    }
+    .person-image img {
+        margin-top: 0px;
+        width: 150px !important;
+        margin-left: 25%;
+        height: auto;
+        margin-bottom: 130px;
+    }
+    .testimonial-carousel .owl-nav {
+        position: relative;
+    }
+    .testimonial-carousel .owl-nav .owl-prev,
+    .testimonial-carousel .owl-nav .owl-next {
+        left: 12%;
+        color: #ed2023;
+        position: absolute;
+        top: -3px;
+        text-align: left;
+        margin-left: 0;
+    }
+    .testimonial-carousel .owl-nav .owl-next {
+        right: 12%;
+        left: auto;
+        text-align: right;
+    }
+    .testimonial-carousel .owl-dots div {
+        margin: 0 9px;
+    }
+    .testimonial-carousel .owl-controls {
+        /* margin-top: 0; */
+        position: absolute;
+        left: 0;
+        top: 0;
+        width: 100%;
+        height: 20px;
+    }
+    .testimonial-carousel .owl-dots {
+        /* margin-top: -0.5%; */
+        margin-top: 0.5%;
+    }
+    .feature-section .container {
+        padding: 0;
+    }
+    .container-fluid.project-showcase figure:last-child,
+    .project-link {
+        display: none;
+    }
+    .snip1301 {
+        width: 50%;
+        height: 120px;
+    }
+    .project-name {
+        text-align: left;
+    }
+    .logo-section .col-md-3 {
+        width: 49%;
+        display: inline-block;
+    }
+    .single-logo-tablecell img {
+        max-width: 140px;
+    }
+    /* added by nmh47 */
+    .soldis-logo {
+        width: 300px;
+        margin-top: -48px;
+        margin-right: -75px;
+        display: block;
+        float: right;
+    }
+    .burger-align {
+        width: 30%;
+    }
+    .count-up-features {
+        width: 100%;
+    }
+    .features-text-block {
+        width: 100%;
+        height: 100%;
+    }
+    .feature-section {
+        height: 100%;
+    }
+    .feature-icon {
+        float: right;
+    }
+    .single-project-header h4 {
+        font-size: 16px;
+    }
+    .feature-desc {
+        width: 260px;
+        float: left;
+    }
+    .single-counter-box {
+        display: inline-block;
+    }
+    .burger-align.b-a-t-2 {
+        width: 75%;
+    }
+    .soldis-header-t-2 {
+        display: none;
+    }
+    .soldis-logo.soldis-logo-mobile {
+        width: 40%;
+        margin-right: 80px;
+        margin-top: 0px;
+    }
+    .snip1302 .portfolio-label2 {
+        opacity: 1;
+        -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+        left: -80px;
+        top: auto;
+        bottom: -25px;
+    }
+    .features-text-block h4 {
+        margin-top: 50px;
+    }
+
+    /* NEW CSS UPDATE FEB 21 */
+    .project-review-company-info h3 { /* Update at Feb 23 */
+        padding-left: 0;
+        display: block;
+    }
+    .project-review-company-info img { /* Update at Feb 23 */
+        max-height: 50px;
+        display: block;
+        margin: 0 auto;
+        margin-bottom: 15px;
+    }
+    .project-review {
+        padding: 15px 25px;
+    }
+    .hero-area-caption.update1 {
+        margin-top: 60%;
+    }
+    .single-filter-dropdown{
+        display: block;
+    }
+    .single-filter-list {
+        display: none;
+    }
+    .project-header.project-all-link {
+        text-align: center;
+    }
+    .project-header.project-all-link a {
+        margin-right: 0;
+    }
+    .portfolio-label2.update1 h4 {
+        margin-bottom: 100px;
+        margin-left: 20px;
+    }
+    /* Added at Feb 23 */
+    .mobile-display-none {
+        display: none !important;
+    }
+    .soldis-phone-no-header img {
+        max-width: 32px;
+    }
+    .soldis-phone-no-header.update1 {
+        margin-top: -37px;
+        margin-left: 90%;
+    }
+    .project-review-company-info {
+        text-align: center;
+    }
+    .col-md-2.phone-col {
+        width: 60%;
+        margin-left: 34%;
+    }
+    .snip1302.update1:hover:after, .snip1302.update1.hover:after {
+        right: 61%;
+    }
+    .snip1302 .portfolio-label2 {
+        left: -102px;
+    }
+    #about-company .container {
+        clip-path: inset(0 0 0 0);
+        -webkit-clip-path: inset(0 0 0 0);
+        position: relative;
+        overflow: hidden;
+    }
+    .count-up-features {
+        margin-top: 50px;
+    }
+    .single-counter-box {
+        margin-right: 10px !important;
+    }
+    .slide-menu-wrapper ul li {
+        margin-top: 40px;
+    }
+    .portfolio-list {
+        margin-bottom: 10px;
+    }
+    .testimonial-intro h1 {
+        font-size: 32px;
+        padding-bottom: 0;
+        margin-bottom: 8px;
+    }
+    div#about-company {
+        padding-top: 10px;
+    }
+    .testimonial-intro p {
+        font-size: 15px;
+    }
+    .project-header h3 {
+        margin: 30px 0;
+    }
+    .testimonial-carousel.owl-carousel.owl-theme.owl-loaded {
+        margin-bottom: 35px;
+    }
+}
+
+
+/* Wide Mobile Layout: 480px. */
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+    .soldis-logo {
+        margin-right: 0;
+    }
+    .person-image img {
+        margin-left: 38%;
+    }
+    .testimonial-carousel .owl-nav .owl-prev, .testimonial-carousel .owl-nav .owl-next {
+        left: 24%;
+    }
+    .testimonial-carousel .owl-nav .owl-next {
+        right: 24%;
+        left: auto;
+    }
+}
+@media only screen and (max-width: 479px) {
+    .single-counter-box {
+        margin-right: 20px;
+    }
+}
+
+/* Mobile Layout(Samsung Galaxy S5): 360px. */
+
+@media only screen and (max-width: 370px) {
+    .snip1302.update1:hover:after, .snip1302.update1.hover:after {
+        right: 59%;
+    }
+    .snip1302 .portfolio-label2 {
+        left: -180px;
+    }
+    .col-md-3.feature-icon img {
+        max-width: 62px;
+    }
+    .single-counter-box {
+        margin-right: 0 !important;
+    }
+}
+
+@media only screen and (max-width: 330px) {
+    .burger-align {
+        -webkit-box-pack: left;
+            -ms-flex-pack: left;
+                justify-content: left;
+        -webkit-box-align: left;
+            -ms-flex-align: left;
+                    -ms-grid-row-align: left;
+                align-items: left;
+        -ms-flex-line-pack: left;
+            align-content: left;
+    }
+    .simply-burger-txt p {
+        display: none;
+    }
+    .hero-area-caption h6 {
+        font-size: 15px;
+        line-height: 24px;
+    }
+    .hero-area-desc p {
+        font-size: 18px;
+    }
+    .hero-area-caption.update1 {
+        margin-top: 38%;
+    }
+    .person-image img {
+        margin-left: 32%;
+        width: 130px !important;
+        margin-bottom: 130px;
+    }
+    .person-quote {
+        margin-top: 225px;
+    }
+    .testimonial-carousel .owl-nav .owl-prev, .testimonial-carousel .owl-nav .owl-next {
+        left: 6%;
+    }
+    .testimonial-carousel .owl-nav .owl-next {
+        right: 6%;
+        left: auto;
+    }
+    p.counter-number sup {
+        top: -0.6em;
+    }
+    p.counter-number {
+        font-size: 25px;
+    }
+    .under-desc p {
+        font-size: 15px;
+    }
+    .feature-desc {
+        width: 240px;
+    }
+    .col-md-3.feature-icon img {
+        max-width: 45px;
+        margin-top: 10px;
+    }
+    .single-logo-tablecell img {
+        max-width: 100px;
+    }
+    .single-logo-table {
+        height: 100px;
+    }
+    .footer-info p {
+        font-size: 15px;
+    }
+    .logo-section {
+        padding: 60px 0;
+    }
+    .testimonial-intro {
+        padding-top: 0;
+    }
+    .slide-menu-wrapper ul li {
+        margin-top: 32px;
+    }
+    .info-and-description-area {
+        font-size: 15px;
+    }
+    .general-info img {
+        max-height: 25px;
+    }
+    .description p {
+        margin-bottom: 20px;
+        line-height: 30px;
+    }
+    .project-review {
+        line-height: 30px;
+    }
+    .contact-info {
+        font-size: 15px;
+        line-height: 12px;
+    }
+    p.person-name {
+        font-size: 20px;
+    }
+    p.person-intro {
+        font-size: 12px;
+    }
+    .person-quote p {
+        font-size: 12px;
+    }
+
+}
